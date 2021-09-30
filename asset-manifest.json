@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kht_mock/static/css/main.f6348763.chunk.css",
-    "main.js": "/kht_mock/static/js/main.01f3f984.chunk.js",
-    "main.js.map": "/kht_mock/static/js/main.01f3f984.chunk.js.map",
+    "main.js": "/kht_mock/static/js/main.bde9fd47.chunk.js",
+    "main.js.map": "/kht_mock/static/js/main.bde9fd47.chunk.js.map",
     "runtime-main.js": "/kht_mock/static/js/runtime-main.92ae318e.js",
     "runtime-main.js.map": "/kht_mock/static/js/runtime-main.92ae318e.js.map",
     "static/css/2.87ae8bc4.chunk.css": "/kht_mock/static/css/2.87ae8bc4.chunk.css",
@@ -50,6 +50,6 @@
     "static/css/2.87ae8bc4.chunk.css",
     "static/js/2.9c9d548d.chunk.js",
     "static/css/main.f6348763.chunk.css",
-    "static/js/main.01f3f984.chunk.js"
+    "static/js/main.bde9fd47.chunk.js"
   ]
 }
